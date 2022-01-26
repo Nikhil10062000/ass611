@@ -29,3 +29,16 @@ td:hover{
   font-style: italic;
   font-weight: 300;
 }
+th{
+    border: 1px solid black;
+    background-image: linear-gradient(to top ,white , rgb(45, 194, 214));
+    font-style: italic;
+    color:black;
+}
+th:hover{
+    text-align: center;
+  background-color: cadetblue;
+  color: darkred;
+  font-style: italic;
+  font-weight: 300;
+}
