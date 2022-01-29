@@ -1,7 +1,7 @@
 
 var head = document.getElementById("table");
 var h1   = document.getElementById("h1");
-h1.innerText = " UNIVERSITIES IN INDIA"
+h1.innerText = "CRYPTO"
 
 
 var row = document.createElement("tr");
